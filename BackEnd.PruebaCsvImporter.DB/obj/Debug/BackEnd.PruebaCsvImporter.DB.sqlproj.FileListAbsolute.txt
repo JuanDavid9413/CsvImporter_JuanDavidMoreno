@@ -1,0 +1,9 @@
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.DB\bin\Debug\BackEnd.PruebaCsvImporter.DB.dacpac
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.DB\bin\Debug\BackEnd.PruebaCsvImporter.DB.dll
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.DB\bin\Debug\BackEnd.PruebaCsvImporter.DB.pdb
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.DB\obj\Debug\Model.xml
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.DB\obj\Debug\refactor.xml
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.DB\obj\Debug\postdeploy.sql
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.DB\obj\Debug\predeploy.sql
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.DB\obj\Debug\BackEnd.PruebaCsvImporter.DB.dll
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.DB\obj\Debug\BackEnd.PruebaCsvImporter.DB.pdb

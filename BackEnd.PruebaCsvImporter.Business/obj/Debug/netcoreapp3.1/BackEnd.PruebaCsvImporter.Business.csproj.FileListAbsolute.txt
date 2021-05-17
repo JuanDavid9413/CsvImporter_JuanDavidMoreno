@@ -1,0 +1,14 @@
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Business.deps.json
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Business.dll
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Business.pdb
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Entities.dll
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Repository.dll
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Repository.pdb
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Entities.pdb
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Business.csprojAssemblyReference.cache
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Business.AssemblyInfoInputs.cache
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Business.AssemblyInfo.cs
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Business.csproj.CoreCompileInputs.cache
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Business.csproj.CopyComplete
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Business.dll
+D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Business\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Business.pdb

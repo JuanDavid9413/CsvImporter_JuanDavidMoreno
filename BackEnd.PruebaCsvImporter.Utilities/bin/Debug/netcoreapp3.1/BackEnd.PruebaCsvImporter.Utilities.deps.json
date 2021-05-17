@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BackEnd.PruebaCsvImporter.Utilities/1.0.0": {
+        "dependencies": {
+          "BackEnd.PruebaCsvImporter.Entities": "1.0.0"
+        },
+        "runtime": {
+          "BackEnd.PruebaCsvImporter.Utilities.dll": {}
+        }
+      },
+      "BackEnd.PruebaCsvImporter.Entities/1.0.0": {
+        "runtime": {
+          "BackEnd.PruebaCsvImporter.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackEnd.PruebaCsvImporter.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackEnd.PruebaCsvImporter.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
