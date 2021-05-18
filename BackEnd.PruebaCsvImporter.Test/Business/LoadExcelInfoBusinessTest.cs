@@ -48,17 +48,16 @@ namespace BackEnd.PruebaCsvImporter.Test.Business
                     _configSectionThree.Setup(x => x.Value).Returns("Stock.CSV");
                     _config.Setup(x => x.GetSection("NameExcel")).Returns(_configSectionThree.Object);
                     break;
-                //case 3:
-                //    _configSectionOne.Setup(x => x.Value).Returns("https://storage10082020.blob.core.windows.net/y9ne9ilzmfld/Stock.CSV");
-                //    _config.Setup(x => x.GetSection("URL")).Returns(_configSectionOne.Object);
-                //    _configSectionTwo.Setup(x => x.Value).Returns("C:\\PruebaCsvImporter\\");
-                //    _config.Setup(x => x.GetSection("DirectoryFolder")).Returns(_configSectionTwo.Object);
-                //    _configSectionThree.Setup(x => x.Value).Returns("Stock.CSV");
-                //    _config.Setup(x => x.GetSection("NameExcel")).Returns(_configSectionThree.Object);
-
-                //    _repository.Setup(l => l.Add(It.IsAny<List<LoadInfoExcel>>()))
-                //        .Returns(Task.FromResult(true));
-                //    break;
+                case 3:
+                    _configSectionOne.Setup(x => x.Value).Returns("https://storage10082020.blob.core.windows.net/y9ne9ilzmfld/Stock.CSV");
+                    _config.Setup(x => x.GetSection("URL")).Returns(_configSectionOne.Object);
+                    _configSectionTwo.Setup(x => x.Value).Returns("C:\\PruebaCsvImporter\\");
+                    _config.Setup(x => x.GetSection("DirectoryFolder")).Returns(_configSectionTwo.Object);
+                    _configSectionThree.Setup(x => x.Value).Returns("Stock.CSV");
+                    _config.Setup(x => x.GetSection("NameExcel")).Returns(_configSectionThree.Object);
+                    _repository.Setup(l => l.Add(It.IsAny<List<LoadInfoExcel>>()))
+                        .Returns(Task.FromResult(true));
+                    break;
             }
 
             var response = await loadInfoExcelBusiness.LoadDataExcel();

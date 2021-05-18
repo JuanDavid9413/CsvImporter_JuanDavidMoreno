@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj": {}
+    "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj": {}
   },
   "projects": {
-    "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.CsvImporter.Repository\\BackEnd.PruebaCsvImporter.Repository.csproj": {
+    "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.CsvImporter.Repository\\BackEnd.PruebaCsvImporter.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.CsvImporter.Repository\\BackEnd.PruebaCsvImporter.Repository.csproj",
+        "projectUniqueName": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.CsvImporter.Repository\\BackEnd.PruebaCsvImporter.Repository.csproj",
         "projectName": "BackEnd.PruebaCsvImporter.Repository",
-        "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.CsvImporter.Repository\\BackEnd.PruebaCsvImporter.Repository.csproj",
+        "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.CsvImporter.Repository\\BackEnd.PruebaCsvImporter.Repository.csproj",
         "packagesPath": "C:\\Users\\Juan_David\\.nuget\\packages\\",
-        "outputPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.CsvImporter.Repository\\obj\\",
+        "outputPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.CsvImporter.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan_David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
-                "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj"
+              "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
+                "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj"
+              },
+              "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Utilities\\BackEnd.PruebaCsvImporter.Utilities.csproj": {
+                "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Utilities\\BackEnd.PruebaCsvImporter.Utilities.csproj"
               }
             }
           }
@@ -82,14 +85,14 @@
         }
       }
     },
-    "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj": {
+    "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj",
+        "projectUniqueName": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj",
         "projectName": "BackEnd.PruebaCsvImporter.Business",
-        "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj",
+        "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj",
         "packagesPath": "C:\\Users\\Juan_David\\.nuget\\packages\\",
-        "outputPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Business\\obj\\",
+        "outputPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan_David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,11 +108,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.CsvImporter.Repository\\BackEnd.PruebaCsvImporter.Repository.csproj": {
-                "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.CsvImporter.Repository\\BackEnd.PruebaCsvImporter.Repository.csproj"
+              "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.CsvImporter.Repository\\BackEnd.PruebaCsvImporter.Repository.csproj": {
+                "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.CsvImporter.Repository\\BackEnd.PruebaCsvImporter.Repository.csproj"
               },
-              "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
-                "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj"
+              "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
+                "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj"
+              },
+              "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Utilities\\BackEnd.PruebaCsvImporter.Utilities.csproj": {
+                "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Utilities\\BackEnd.PruebaCsvImporter.Utilities.csproj"
               }
             }
           }
@@ -147,14 +153,14 @@
         }
       }
     },
-    "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
+    "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj",
+        "projectUniqueName": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj",
         "projectName": "BackEnd.PruebaCsvImporter.Entities",
-        "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj",
+        "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj",
         "packagesPath": "C:\\Users\\Juan_David\\.nuget\\packages\\",
-        "outputPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\obj\\",
+        "outputPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan_David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -199,14 +205,14 @@
         }
       }
     },
-    "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj": {
+    "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj",
+        "projectUniqueName": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj",
         "projectName": "BackEnd.PruebaCsvImporter.Test",
-        "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj",
+        "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj",
         "packagesPath": "C:\\Users\\Juan_David\\.nuget\\packages\\",
-        "outputPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Test\\obj\\",
+        "outputPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan_David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,11 +228,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj": {
-                "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj"
+              "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj": {
+                "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj"
               },
-              "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
-                "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj"
+              "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
+                "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj"
               }
             }
           }
@@ -261,6 +267,62 @@
               "version": "[4.16.1, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Utilities\\BackEnd.PruebaCsvImporter.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Utilities\\BackEnd.PruebaCsvImporter.Utilities.csproj",
+        "projectName": "BackEnd.PruebaCsvImporter.Utilities",
+        "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Utilities\\BackEnd.PruebaCsvImporter.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Juan_David\\.nuget\\packages\\",
+        "outputPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan_David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
+                "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",

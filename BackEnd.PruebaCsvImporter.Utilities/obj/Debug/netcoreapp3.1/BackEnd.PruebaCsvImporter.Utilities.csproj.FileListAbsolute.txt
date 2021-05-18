@@ -10,3 +10,15 @@ D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Utilities\obj\De
 D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Utilities\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.csproj.CopyComplete
 D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Utilities\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.dll
 D:\TestKill\NetCore\PruebaCsvImporter\BackEnd.PruebaCsvImporter.Utilities\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.pdb
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.deps.json
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.dll
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.pdb
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Entities.dll
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\bin\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Entities.pdb
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.csprojAssemblyReference.cache
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.AssemblyInfoInputs.cache
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.AssemblyInfo.cs
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.csproj.CoreCompileInputs.cache
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.csproj.CopyComplete
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.dll
+D:\Pruebas\Analitycs\CsvImporter_JuanDavidMoreno\BackEnd.PruebaCsvImporter.Utilities\obj\Debug\netcoreapp3.1\BackEnd.PruebaCsvImporter.Utilities.pdb

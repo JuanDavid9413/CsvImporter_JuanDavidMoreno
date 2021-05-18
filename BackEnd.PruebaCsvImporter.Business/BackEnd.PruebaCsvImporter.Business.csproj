@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BackEnd.CsvImporter.Repository\BackEnd.PruebaCsvImporter.Repository.csproj" />
     <ProjectReference Include="..\BackEnd.PruebaCsvImporter.Entities\BackEnd.PruebaCsvImporter.Entities.csproj" />
+    <ProjectReference Include="..\BackEnd.PruebaCsvImporter.Utilities\BackEnd.PruebaCsvImporter.Utilities.csproj" />
   </ItemGroup>
 
 </Project>

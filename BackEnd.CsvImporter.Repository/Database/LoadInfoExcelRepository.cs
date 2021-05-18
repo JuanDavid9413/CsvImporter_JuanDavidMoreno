@@ -1,6 +1,9 @@
 ﻿using BackEnd.CsvImporter.Repository.Context;
 using BackEnd.PruebaCsvImport.Entities.Models;
 using BackEnd.PruebaCsvImporter.Entities.Interfaces.Repository;
+using BackEnd.PruebaCsvImporter.Utilities;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -22,21 +25,21 @@ namespace BackEnd.CsvImporter.Repository.Database
             }
         }
 
-        public async Task<bool> Delete(List<LoadInfoExcel> loadInfoExcel)
+        public async Task<bool> Delete()
         {
             using (var context = new ApplicationContext())
             {
-                await context.BulkDeleteAsync(loadInfoExcel);
+                await context.BulkDeleteAsync(context.loadInfoExcel);
                 var resp = context.BulkSaveChangesAsync();
                 return true;
             }
         }
 
-        public async Task<List<LoadInfoExcel>> GetAll()
+        public async Task<List<LoadInfoExcel>> GetDistict()
         {
             using (var context = new ApplicationContext())
             {
-                return context.loadInfoExcel.ToList();
+                return context.loadInfoExcel.DistinctBy(l => l.PointOfSale).ToList();
             }
         }
 
@@ -44,7 +47,7 @@ namespace BackEnd.CsvImporter.Repository.Database
         {
             using (var context = new ApplicationContext())
             {
-                return context.loadInfoExcel.ToList();
+                return await context.loadInfoExcel.ToListAsync();
             }
         }
     }

@@ -9,6 +9,7 @@
       "BackEnd.PruebaCsvImporter.Repository/1.0.0": {
         "dependencies": {
           "BackEnd.PruebaCsvImporter.Entities": "1.0.0",
+          "BackEnd.PruebaCsvImporter.Utilities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.6",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.6",
@@ -1126,6 +1127,14 @@
         "runtime": {
           "BackEnd.PruebaCsvImporter.Entities.dll": {}
         }
+      },
+      "BackEnd.PruebaCsvImporter.Utilities/1.0.0": {
+        "dependencies": {
+          "BackEnd.PruebaCsvImporter.Entities": "1.0.0"
+        },
+        "runtime": {
+          "BackEnd.PruebaCsvImporter.Utilities.dll": {}
+        }
       }
     }
   },
@@ -1829,6 +1838,11 @@
       "hashPath": "z.expressions.eval.4.0.43.nupkg.sha512"
     },
     "BackEnd.PruebaCsvImporter.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackEnd.PruebaCsvImporter.Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

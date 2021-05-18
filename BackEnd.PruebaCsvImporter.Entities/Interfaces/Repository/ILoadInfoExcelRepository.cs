@@ -10,8 +10,9 @@ namespace BackEnd.PruebaCsvImporter.Entities.Interfaces.Repository
     public interface ILoadInfoExcelRepository
     {
         Task<bool> Add(List<LoadInfoExcel> loadInfoExcel);
-        Task<bool> Delete(List<LoadInfoExcel> loadInfoExcel);
-        Task<List<LoadInfoExcel>> GetAll();
+        //Task<bool> Delete(List<LoadInfoExcel> loadInfoExcel);
+        Task<bool> Delete();
+        Task<List<LoadInfoExcel>> GetDistict();
         Task<List<LoadInfoExcel>> GetFilter(Expression<Func<LoadInfoExcel, bool>> expression);
 
     }

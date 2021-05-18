@@ -3,6 +3,7 @@ using BackEnd.PruebaCsvImporter.Business.ProcessBusiness;
 using BackEnd.PruebaCsvImporter.Entities.Interfaces.Business;
 using BackEnd.PruebaCsvImporter.Entities.Interfaces.Repository;
 using BackEnd.PruebaCsvImporter.Entities.Response;
+using BackEnd.PruebaCsvImporter.Utilities;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using System;
@@ -42,6 +43,7 @@ namespace BackEnd.PruebaCsvImporter.Business
                     LoadInfoExcelBusinessProcessor.DowloadDocument(urlExcel, routeDirectory, routeExcel);
                     _log.LogInformation("Great.. Download the file, now, We change the information in DB");
                     List<LoadInfoExcel> loadInfoExcels = LoadInfoExcelBusinessProcessor.ReadToExcel(routeExcel);
+
                     if (loadInfoExcels.Count() != 0)
                     {
                         if (await SaveInfoExcel(loadInfoExcels))
@@ -53,23 +55,20 @@ namespace BackEnd.PruebaCsvImporter.Business
                         else
                         {
                             result.Data = false;
-                            result.Code = (int)HttpStatusCode.BadRequest;
-                            result.Message = "Opps.... someting failure to add information in BD, Please check the connect. =(";
+                            result.ResponseBaseCatch<bool>(true, "Opps.... someting failure to add information in BD, Please check the connect. =(", HttpStatusCode.BadRequest);
                         }
                     }
                 }
                 else
                 {
                     result.Data = false;
-                    result.Code = (int)HttpStatusCode.BadRequest;
-                    result.Message = "Opps.... check the appsettings configuration";
+                    result.ResponseBaseCatch<bool>(true, "Opps.... check the appsettings configuration", HttpStatusCode.BadRequest);
                 }
             }
             catch (Exception ex)
             {
                 result.Data = false;
-                result.Code = (int)HttpStatusCode.InternalServerError;
-                result.Message = ex.Message;
+                result.ResponseBaseCatch<bool>(true, ex.Message, HttpStatusCode.InternalServerError);
             }
             return result;
         }

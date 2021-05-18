@@ -2162,6 +2162,7 @@
         "dependencies": {
           "BackEnd.PruebaCsvImporter.Entities": "1.0.0",
           "BackEnd.PruebaCsvImporter.Repository": "1.0.0",
+          "BackEnd.PruebaCsvImporter.Utilities": "1.0.0",
           "Serilog.Settings.Configuration": "3.1.0"
         },
         "compile": {
@@ -2186,6 +2187,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "BackEnd.PruebaCsvImporter.Entities": "1.0.0",
+          "BackEnd.PruebaCsvImporter.Utilities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.6",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.6",
@@ -2197,6 +2199,19 @@
         },
         "runtime": {
           "bin/placeholder/BackEnd.PruebaCsvImporter.Repository.dll": {}
+        }
+      },
+      "BackEnd.PruebaCsvImporter.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BackEnd.PruebaCsvImporter.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BackEnd.PruebaCsvImporter.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BackEnd.PruebaCsvImporter.Utilities.dll": {}
         }
       }
     }
@@ -7772,6 +7787,11 @@
       "type": "project",
       "path": "../BackEnd.CsvImporter.Repository/BackEnd.PruebaCsvImporter.Repository.csproj",
       "msbuildProject": "../BackEnd.CsvImporter.Repository/BackEnd.PruebaCsvImporter.Repository.csproj"
+    },
+    "BackEnd.PruebaCsvImporter.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../BackEnd.PruebaCsvImporter.Utilities/BackEnd.PruebaCsvImporter.Utilities.csproj",
+      "msbuildProject": "../BackEnd.PruebaCsvImporter.Utilities/BackEnd.PruebaCsvImporter.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7791,11 +7811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj",
+      "projectUniqueName": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj",
       "projectName": "BackEnd.PruebaCsvImporter.Test",
-      "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj",
+      "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj",
       "packagesPath": "C:\\Users\\Juan_David\\.nuget\\packages\\",
-      "outputPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Test\\obj\\",
+      "outputPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan_David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7811,11 +7831,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj": {
-              "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj"
+            "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj": {
+              "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Business\\BackEnd.PruebaCsvImporter.Business.csproj"
             },
-            "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
-              "projectPath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj"
+            "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj": {
+              "projectPath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj"
             }
           }
         }

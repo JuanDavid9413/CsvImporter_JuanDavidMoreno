@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DhM3UJhOYHxQIhxh4LG2SyHSKhaAbWctWvLBNCreQH/WhHE91TduFVZypcq6gHsBNBqNiVRvfHqMWi0o3hJ/RQ==",
+  "dgSpecHash": "OqgxM1EPyhAS4Og9Li3mZSji8yqU7MxeKhOQGC+ZxdJPctP1pdppqxuHg5XslpVFDHs6/B04ZZI0Oxj7jjOvnA==",
   "success": true,
-  "projectFilePath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj",
+  "projectFilePath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Entities\\BackEnd.PruebaCsvImporter.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

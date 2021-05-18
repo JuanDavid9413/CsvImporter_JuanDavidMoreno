@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JlsXsSaraYk+GUvn/TDFgEYFV4hQOSIDoxXdWtdSeEeHpmU4CsMGass/8EPQAsxF0Ri+WFl73mQ/w28/CvWZaQ==",
+  "dgSpecHash": "c9ejBPD9a6zL80+kJJjMR+ELjWv+OKZ+J87HfRul2VzyE8ceq7J88dLtGibR7OjGRqWtvVAAyT6uakkx3WruuA==",
   "success": true,
-  "projectFilePath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\PruebaCsvImporter\\PruebaCsvImporter.csproj",
+  "projectFilePath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\PruebaCsvImporter\\PruebaCsvImporter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan_David\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Juan_David\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

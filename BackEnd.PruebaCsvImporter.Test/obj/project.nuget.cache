@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ToI2uaSo6WRUGXS949Luj/XdGYfakN67KY6l1PHRs2bY/McohYWj4ZOmkq8T45xANNZHYHtpOdORkb5Bjyj4Lg==",
+  "dgSpecHash": "dBplr6sZkqkpDZQkFujjUWSTbAp02jwSSu4U09sEx5pxOW2l0eUBlNU/UI1wBT2C7pWcZswuon/xOw3vT6wKYQ==",
   "success": true,
-  "projectFilePath": "D:\\TestKill\\NetCore\\PruebaCsvImporter\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj",
+  "projectFilePath": "D:\\Pruebas\\Analitycs\\CsvImporter_JuanDavidMoreno\\BackEnd.PruebaCsvImporter.Test\\BackEnd.PruebaCsvImporter.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan_David\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Juan_David\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
